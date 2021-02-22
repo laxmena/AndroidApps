@@ -1,5 +1,7 @@
 # AndroidApps
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.AndroidApps)](https://github.com/laxmena/AndroidApps) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+
 ## What is AndroidApps Repository?
 AndroidApps repository is a index repository of all of my publicly available android apps.
 
