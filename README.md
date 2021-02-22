@@ -1,2 +1,24 @@
 # AndroidApps
-Repo which includes description for all the Publicly available android apps that I built
+
+## What is AndroidApps Repository?
+AndroidApps repository is a index repository of all of my publicly available android apps.
+
+<a href='https://play.google.com/store/apps/developer?id=Laxmena&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="180"/>
+</a>
+
+### Apps Available in Playstore
+1. [Vakai Quotes](https://play.google.com/store/apps/details?id=com.laxmena.vakaiquotes) (100+ downlaods)
+2. [தமிழ் வெல்லும் - Tamil Vellum](https://play.google.com/store/apps/details?id=com.laxmena.tamilvellum) (100+ downlaods)
+
+### CS478 Software Development for Mobile Platforms Projects
+_Note: Source code is available in GitHub_
+1. [EditContact App](https://github.com/laxmena/CS478-AndroidApp-Project1)
+2. Melody - Music Listing App]
+
+## About Laxmena
+I'm Lakshmanan Meiyappan, you can find me on internet under the name - 'laxmena'. 
+I'm a Software Engineer, currently pursuing masters in Computer Science.
+
+- You can find more about me through my [Website: Laxmena.com](https://laxmena.com/pages/about)
+- You can connect with me on LinkedIn: [Lakshmanan Meiyappan](https://www.linkedin.com/in/lakshmanan-meiyappan/) 
