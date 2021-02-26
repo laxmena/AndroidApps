@@ -16,7 +16,7 @@ AndroidApps repository is a index repository of all of my publicly available and
 ### CS478 Software Development for Mobile Platforms Projects
 _Note: Source code is available in GitHub_
 1. [EditContact App](https://github.com/laxmena/CS478-AndroidApp-Project1)
-2. Melody - Music Listing App]
+2. [Melody - Music Listing App](https://github.com/laxmena/Melody-MusicApp)
 
 ## About Laxmena
 I'm Lakshmanan Meiyappan, you can find me on internet under the name - 'laxmena'. 
