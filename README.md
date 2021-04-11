@@ -17,6 +17,8 @@ AndroidApps repository is a index repository of all of my publicly available and
 _Note: Source code is available in GitHub_
 1. [EditContact App](https://github.com/laxmena/CS478-AndroidApp-Project1)
 2. [Melody - Music Listing App](https://github.com/laxmena/Melody-MusicApp)
+3. [Android Multiple Broadcast Recievers](https://github.com/laxmena/Android-Multiple-Broadcast-Recievers)
+4. [Noughts and Crosses - BotVsBot TicTacToe](https://github.com/laxmena/noughts_and_crosses) 
 
 ## About Laxmena
 I'm Lakshmanan Meiyappan, you can find me on internet under the name - 'laxmena'. 
@@ -24,3 +26,4 @@ I'm a Software Engineer, currently pursuing masters in Computer Science.
 
 - You can find more about me through my [Website: Laxmena.com](https://laxmena.com/pages/about)
 - You can connect with me on LinkedIn: [Lakshmanan Meiyappan](https://www.linkedin.com/in/lakshmanan-meiyappan/) 
+- You can email me at [WriteTo@Laxmena.com](mailto:writeto@laxmena.com)
